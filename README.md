@@ -15,6 +15,12 @@
     * Practice(OJ) : <a href="http://3.131.175.105/problem/0222">Sum of Digits</a>
 * Conditionals
     * Practice(OJ) : <a href="http://3.131.175.105/problem/0225">Python if-else</a>  
+    * Practice(OJ) : <a href="http://3.131.175.105/problem/0226">Python elif</a> 
+    * Practice(OJ) : <a href="http://3.131.175.105/problem/0227">Sleep in </a>
+    * Practice(OJ) : <a href="http://3.131.175.105/problem/0228">Monkey Trouble</a> 
+    * Practice(OJ) : <a href="http://3.131.175.105/problem/0229">Double Sum</a>
+    * Practice(OJ) : <a href="http://3.131.175.105/problem/0230">Diff 21</a>
+    * Practice(OJ) : <a href="http://3.131.175.105/problem/0231">Parrot Trouble</a>
 * Loops
 * Functions
 * Built-in Functions
