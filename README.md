@@ -3,6 +3,7 @@
 ### Week 1
 ---
 * Lessons
+   * Variables (colab) 
    * <a href = "https://colab.research.google.com/drive/1a1rZB5tIMluQqgSrgOWFDETsv_a7kHTn?usp=sharing">Input and Output (colab)</a>
       * Practice : <a href = "http://3.131.175.105/problem/0213">"Hello, World!" With Python</a>
       * Practce : <a href="http://3.131.175.105/problem/0284">Advanced print</a>
@@ -31,6 +32,7 @@
     * <a href="http://3.131.175.105/problem/0222">Sum of Digits</a>
 
 ### Week 3
+---
 * Lessons
   * String
     * Practice : <a href="http://3.131.175.105/problem/0237">String Methods 1</a>
