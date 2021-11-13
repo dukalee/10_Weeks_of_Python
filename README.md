@@ -1,4 +1,4 @@
-## python
+# python
 
 ### Basics
 * <a href = "https://colab.research.google.com/drive/1a1rZB5tIMluQqgSrgOWFDETsv_a7kHTn?usp=sharing">Input and Output (colab)</a>
