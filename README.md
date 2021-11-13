@@ -6,7 +6,7 @@
     * 실습(OJ) : <a href = "http://3.131.175.105/problem/0214">Python Input</a>
     * 실습(OJ) : <a href = "http://3.131.175.105/problem/0217">Type Casting</a>
     * 실습(OJ) : <a href = "http://3.131.175.105/problem/0219">Introduce Yourself</a>
-* <a href = "https://colab.research.google.com/drive/17xim7Q8CzN9ybLFZqg_wdBqnKfBfkRO4?usp=sharing">Errors</a>
+* <a href = "https://colab.research.google.com/drive/17xim7Q8CzN9ybLFZqg_wdBqnKfBfkRO4?usp=sharing">Errors (colab)</a>
 * Operators
 * Conditionals
 * Loops
