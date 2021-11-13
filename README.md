@@ -15,7 +15,7 @@
 
 ### Day 2
 ---
-* Operators
+* <a href="https://colab.research.google.com/drive/1DOiyBG9Ouvg5SZuKxeiAWYa0OE4OkvrL?usp=sharing">Operators (colab)</a>
     * Practice(OJ) : <a href="http://3.131.175.105/problem/0218">Arithmetic Operations</a>
     * Practice(OJ) : <a href="http://3.131.175.105/problem/0223">Comparison Operations</a>
     * Practice(OJ) : <a href="http://3.131.175.105/problem/0224">Logical Operations</a>
