@@ -1,7 +1,7 @@
 ## python
 
 ### Basics
-* Input and Output
+* <a href = "https://colab.research.google.com/drive/1a1rZB5tIMluQqgSrgOWFDETsv_a7kHTn?usp=sharing">Input and Output (colab)</a>
 * Errors
 * Operators
 * Conditionals
