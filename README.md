@@ -1,6 +1,7 @@
 ## 14 Days of Python
 
 ### Day 1
+---
 * <a href = "https://colab.research.google.com/drive/1a1rZB5tIMluQqgSrgOWFDETsv_a7kHTn?usp=sharing">Input and Output (colab)</a>
     * Practice(OJ) : <a href = "http://3.131.175.105/problem/0213">"Hello, World!" With Python</a>
     * Practce(OJ) : <a href="http://3.131.175.105/problem/0284">Advanced print</a>
@@ -13,6 +14,7 @@
 * <a href = "https://colab.research.google.com/drive/17xim7Q8CzN9ybLFZqg_wdBqnKfBfkRO4?usp=sharing">Errors (colab)</a>
 
 ### Day 2
+---
 * Operators
     * Practice(OJ) : <a href="http://3.131.175.105/problem/0218">Arithmetic Operations</a>
     * Practice(OJ) : <a href="http://3.131.175.105/problem/0223">Comparison Operations</a>
