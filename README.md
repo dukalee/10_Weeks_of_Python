@@ -20,8 +20,8 @@
     * Practice(OJ) : <a href="http://3.131.175.105/problem/0223">Comparison Operations</a>
     * Practice(OJ) : <a href="http://3.131.175.105/problem/0224">Logical Operations</a>
     * Practice(OJ) : <a href="http://3.131.175.105/problem/0261">Membership Operations</a>
-    * Practice(OJ) : <a href="http://3.131.175.105/problem/0221">Area and Perimeter of a Rectangle</a>
-    * Practice(OJ) : <a href="http://3.131.175.105/problem/0222">Sum of Digits</a>
+    * Problem(OJ) : <a href="http://3.131.175.105/problem/0221">Area and Perimeter of a Rectangle</a>
+    * Problem(OJ) : <a href="http://3.131.175.105/problem/0222">Sum of Digits</a>
 
 ### Day 3
 * Data Types
@@ -37,6 +37,10 @@
    * Practice(OJ) : <a href="http://3.131.175.105/problem/0281">Python Tuple</a>
    * Practice(OJ) : <a href="http://3.131.175.105/problem/0282">Python Set</a>
    * Practice(OJ) : <a href="http://3.131.175.105/problem/0283">Python Dictionary</a>
+   * Practice(OJ) : <a href="http://3.131.175.105/problem/0249">Missing Character</a>
+   * Practice(OJ) : <a href="http://3.131.175.105/problem/0250">Front Back</a>
+   * Practice(OJ) : <a href="http://3.131.175.105/problem/0252">String Bits</a>
+   * Practice(OJ) : <a href="http://3.131.175.105/problem/0253">Make Out Word</a>
   
 ### Day 5
 * Conditionals
@@ -51,6 +55,9 @@
     * Practice(OJ) : <a href="http://3.131.175.105/problem/0233">Near Hundred</a>
     * Practice(OJ) : <a href="http://3.131.175.105/problem/0233">Positive Negative</a>
     * Practice(OJ) : <a href="http://3.131.175.105/problem/0248">Not String</a>
+    * Practice(OJ) : <a href="http://3.131.175.105/problem/0002">타임 머신</a>
+    * Practice(OJ) : <a href="http://3.131.175.105/problem/0005">윷놀이</a>
+    * 
 * Exception Handling
 
 ### Day 6
@@ -61,6 +68,9 @@
     * Practice(OJ) : <a href="http://3.131.175.105/problem/0265">Break, Continue</a>
     * Practice(OJ) : <a href="http://3.131.175.105/problem/0285">Nested Loops</a> 
     * Practice(OJ) : <a href="http://3.131.175.105/problem/0286">Nested Lists
+    * Practice(OJ) : <a href="http://3.131.175.105/problem/0003">자연수 분리하여 입력 받기</a>
+    * Practice(OJ) : <a href="http://3.131.175.105/problem/0006">검증수</a>
+   
 
 ### Day 7
 * Functions 1
