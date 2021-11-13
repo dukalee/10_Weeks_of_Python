@@ -15,7 +15,7 @@
     * Practice(OJ) : <a href = "http://3.131.175.105/problem/0217">Type Casting</a>
     * Practice(OJ) : <a href = "http://3.131.175.105/problem/0219">Introduce Yourself</a>
 * <a href = "https://colab.research.google.com/drive/17xim7Q8CzN9ybLFZqg_wdBqnKfBfkRO4?usp=sharing">Errors (colab)</a>
-* Operators
+* <a href="https://colab.research.google.com/drive/1DOiyBG9Ouvg5SZuKxeiAWYa0OE4OkvrL?usp=sharing">Operators (colab)</a> 
     * Practice(OJ) : <a href="http://3.131.175.105/problem/0218">Arithmetic Operations</a>
     * Practice(OJ) : <a href="http://3.131.175.105/problem/0223">Comparison Operations</a>
     * Practice(OJ) : <a href="http://3.131.175.105/problem/0224">Logical Operations</a>
