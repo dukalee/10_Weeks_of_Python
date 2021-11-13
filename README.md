@@ -2,6 +2,8 @@
 
 ### Basics
 * <a href = "https://colab.research.google.com/drive/1a1rZB5tIMluQqgSrgOWFDETsv_a7kHTn?usp=sharing">Input and Output (colab)</a>
+  * 실습 : <a href = "http://3.131.175.105/problem/0213">Hello World 출력하기</a>
+  * 실습 : <a href = "http://3.131.175.105/problem/0214">Python Input</a>
 * Errors
 * Operators
 * Conditionals
