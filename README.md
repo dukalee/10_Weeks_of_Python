@@ -1,4 +1,12 @@
-# python
+## python
+
+### Data Types
+* Int, Float, Bool
+* String
+* List
+* Tuple
+* Dictionary
+* Set
 
 ### Basics
 * <a href = "https://colab.research.google.com/drive/1a1rZB5tIMluQqgSrgOWFDETsv_a7kHTn?usp=sharing">Input and Output (colab)</a>
@@ -28,14 +36,6 @@
 * List Comprehension
 * Lambda
 * Class
-
-### Data Types
-* Int, Float, Bool
-* String
-* List
-* Tuple
-* Dictionary
-* Set
 
 ### Built-in Modules
 * Collections
