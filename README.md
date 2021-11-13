@@ -20,14 +20,15 @@
 
 ### Week 2
 ---
-* <a href="https://colab.research.google.com/drive/1DOiyBG9Ouvg5SZuKxeiAWYa0OE4OkvrL?usp=sharing">Operators (colab)</a>
-    * Practice(OJ) : <a href="http://3.131.175.105/problem/0218">Arithmetic Operations</a>
-    * Practice(OJ) : <a href="http://3.131.175.105/problem/0223">Comparison Operations</a>
-    * Practice(OJ) : <a href="http://3.131.175.105/problem/0224">Logical Operations</a>
-    * Practice(OJ) : <a href="http://3.131.175.105/problem/0261">Membership Operations</a>
+* Lessons  
+  * <a href="https://colab.research.google.com/drive/1DOiyBG9Ouvg5SZuKxeiAWYa0OE4OkvrL?usp=sharing">Operators (colab)</a>
+    * Practice : <a href="http://3.131.175.105/problem/0218">Arithmetic Operations</a>
+    * Practice : <a href="http://3.131.175.105/problem/0223">Comparison Operations</a>
+    * Practice : <a href="http://3.131.175.105/problem/0224">Logical Operations</a>
+    * Practice : <a href="http://3.131.175.105/problem/0261">Membership Operations</a>
 * Problems 
-    * Problem(OJ) : <a href="http://3.131.175.105/problem/0221">Area and Perimeter of a Rectangle</a>
-    * Problem(OJ) : <a href="http://3.131.175.105/problem/0222">Sum of Digits</a>
+    * <a href="http://3.131.175.105/problem/0221">Area and Perimeter of a Rectangle</a>
+    * <a href="http://3.131.175.105/problem/0222">Sum of Digits</a>
 
 ### Week 3
 * String
