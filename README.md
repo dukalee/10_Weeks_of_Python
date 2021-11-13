@@ -16,7 +16,10 @@
     * Practice(OJ) : <a href = "http://3.131.175.105/problem/0214">Python Input</a>
     * Practice(OJ) : <a href = "http://3.131.175.105/problem/0217">Type Casting</a>
     * Practice(OJ) : <a href = "http://3.131.175.105/problem/0219">Introduce Yourself</a>
+    * Practice(OJ) : <a href="http://3.131.175.105/problem/0235">Make Abba</a>
+    * Practice(OJ) : <a href="http://3.131.175.105/problem/0236">Making Tags</a>
     * Practice(OJ) : <a href = "http://3.131.175.105/problem/0246">Advanced Input</a>
+
 * <a href = "https://colab.research.google.com/drive/17xim7Q8CzN9ybLFZqg_wdBqnKfBfkRO4?usp=sharing">Errors (colab)</a>
 * Operators
     * Practice(OJ) : <a href="http://3.131.175.105/problem/0218">Arithmetic Operations</a>
@@ -33,6 +36,10 @@
     * Practice(OJ) : <a href="http://3.131.175.105/problem/0229">Double Sum</a>
     * Practice(OJ) : <a href="http://3.131.175.105/problem/0230">Diff 21</a>
     * Practice(OJ) : <a href="http://3.131.175.105/problem/0231">Parrot Trouble</a>
+    * Practice(OJ) : <a href="http://3.131.175.105/problem/0232">Makes 10</a>
+    * Practice(OJ) : <a href="http://3.131.175.105/problem/0233">Near Hundred</a>
+    * Practice(OJ) : <a href="http://3.131.175.105/problem/0233">Positive Negative</a>
+    * Practice(OJ) : <a href="http://3.131.175.105/problem/0248">Not String</a>
 * Loops
     * Practice(OJ) : <a href="http://3.131.175.105/problem/0262">Range Function</a> 
     * Practice(OJ) : <a href="http://3.131.175.105/problem/0263">For Loop</a>
