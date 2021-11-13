@@ -25,6 +25,18 @@
 
 ### Day 3
 * Data Types
+   * Practice(OJ) : <a href="http://3.131.175.105/problem/0237">String Methods 1</a>
+   * Practice(OJ) : <a href="http://3.131.175.105/problem/0238">String Methods 2</a> 
+   * Practice(OJ) : <a href="http://3.131.175.105/problem/0245">String Methods 3</a> 
+   * Practice(OJ) : <a href="http://3.131.175.105/problem/0239">String Validation Methods</a>
+   * Practice(OJ) : <a href="http://3.131.175.105/problem/0240">Python Lists</a>
+   * Practice(OJ) : <a href="http://3.131.175.105/problem/0241">List Methods 1</a>
+   * Practice(OJ) : <a href="http://3.131.175.105/problem/0242">List Methods 2</a>
+   * Practice(OJ) : <a href="http://3.131.175.105/problem/0243">Sequence Data</a>
+   * Practice(OJ) : <a href="http://3.131.175.105/problem/0244">Mutable and Immutable Data</a>  
+   * Practice(OJ) : <a href="http://3.131.175.105/problem/0281">Python Tuple</a>
+   * Practice(OJ) : <a href="http://3.131.175.105/problem/0282">Python Set</a>
+   * Practice(OJ) : <a href="http://3.131.175.105/problem/0283">Python Dictionary</a>
   
 ### Day 5
 * Conditionals
@@ -48,6 +60,7 @@
     * Practice(OJ) : <a href="http://3.131.175.105/problem/0264">While Loop</a>
     * Practice(OJ) : <a href="http://3.131.175.105/problem/0265">Break, Continue</a>
     * Practice(OJ) : <a href="http://3.131.175.105/problem/0285">Nested Loops</a> 
+    * Practice(OJ) : <a href="http://3.131.175.105/problem/0286">Nested Lists
 
 ### Day 7
 * Functions 1
