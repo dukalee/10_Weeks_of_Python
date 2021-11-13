@@ -41,6 +41,7 @@
    * Practice(OJ) : <a href="http://3.131.175.105/problem/0250">Front Back</a>
    * Practice(OJ) : <a href="http://3.131.175.105/problem/0252">String Bits</a>
    * Practice(OJ) : <a href="http://3.131.175.105/problem/0253">Make Out Word</a>
+   * Practice(OJ) : <a href="http://3.131.175.105/problem/0254">First Half</a> 
   
 ### Day 5
 * Conditionals
