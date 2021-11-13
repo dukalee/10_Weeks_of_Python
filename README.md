@@ -16,7 +16,7 @@
 * Class
 
 ### Data Types
-* Type Casting
+* Int, Float, Bool
 * String
 * List
 * Tuple
