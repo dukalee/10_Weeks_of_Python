@@ -5,8 +5,8 @@
 * Lessons
    * <a href="https://colab.research.google.com/drive/1X-_0wvD3Vf_COmSJVf8yTNUVolerUC-q?usp=sharing">Variables (colab)</a>
    * <a href = "https://colab.research.google.com/drive/1a1rZB5tIMluQqgSrgOWFDETsv_a7kHTn?usp=sharing">Input and Output (colab)</a>
-      > Practice : <a href = "http://3.131.175.105/problem/0213">"Hello, World!" With Python</a>
-      > Practce : <a href="http://3.131.175.105/problem/0284">Advanced print</a>
+      > Practice : <a href = "http://3.131.175.105/problem/0213">"Hello, World!" With Python</a><br>
+      > Practce : <a href="http://3.131.175.105/problem/0284">Advanced print</a><br>
       > Practice : <a href = "http://3.131.175.105/problem/0214">Python Input</a>
       > Practice : <a href = "http://3.131.175.105/problem/0217">Type Casting</a>
    * <a href="https://colab.research.google.com/drive/1jTQ-t9_NGX7WNN6toP-p6QYnaNk3E7xZ?usp=sharing">Print Formatting</a>
