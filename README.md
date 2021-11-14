@@ -7,24 +7,24 @@
    * <a href = "https://colab.research.google.com/drive/1a1rZB5tIMluQqgSrgOWFDETsv_a7kHTn?usp=sharing">Input and Output (colab)</a>
       > Practice : <a href = "http://3.131.175.105/problem/0213">"Hello, World!" With Python</a><br>
       > Practce : <a href="http://3.131.175.105/problem/0284">Advanced print</a><br>
-      > Practice : <a href = "http://3.131.175.105/problem/0214">Python Input</a>
-      > Practice : <a href = "http://3.131.175.105/problem/0217">Type Casting</a>
+      > Practice : <a href = "http://3.131.175.105/problem/0214">Python Input</a><br>
+      > Practice : <a href = "http://3.131.175.105/problem/0217">Type Casting</a><br>
    * <a href="https://colab.research.google.com/drive/1jTQ-t9_NGX7WNN6toP-p6QYnaNk3E7xZ?usp=sharing">Print Formatting</a>
-      > Practice : <a href="http://3.131.175.105/problem/0220">Print Formatting</a> 
+      > Practice : <a href="http://3.131.175.105/problem/0220">Print Formatting</a><br>
    * <a href = "https://colab.research.google.com/drive/17xim7Q8CzN9ybLFZqg_wdBqnKfBfkRO4?usp=sharing">Errors (colab)</a>
    * <a href="https://colab.research.google.com/drive/1DOiyBG9Ouvg5SZuKxeiAWYa0OE4OkvrL?usp=sharing">Operators (colab)</a>
-      > Practice : <a href="http://3.131.175.105/problem/0218">Arithmetic Operations</a>
-      > Practice : <a href="http://3.131.175.105/problem/0223">Comparison Operations</a>
-      > Practice : <a href="http://3.131.175.105/problem/0224">Logical Operations</a>
-      > Practice : <a href="http://3.131.175.105/problem/0261">Membership Operations</a>
+      > Practice : <a href="http://3.131.175.105/problem/0218">Arithmetic Operations</a><br>
+      > Practice : <a href="http://3.131.175.105/problem/0223">Comparison Operations</a><br>
+      > Practice : <a href="http://3.131.175.105/problem/0224">Logical Operations</a><br>
+      > Practice : <a href="http://3.131.175.105/problem/0261">Membership Operations</a><br>
 * Problems(OJ) : 
-    > <a href = "http://3.131.175.105/problem/0219">Introduce Yourself</a>
-    > <a href="http://3.131.175.105/problem/0216">String Operations</a> 
-    > <a href="http://3.131.175.105/problem/0235">Make Abba</a>
-    > <a href="http://3.131.175.105/problem/0236">Making Tags</a>
-    > <a href = "http://3.131.175.105/problem/0246">Advanced Input</a>
-    > <a href="http://3.131.175.105/problem/0221">Area and Perimeter of a Rectangle</a>
-    > <a href="http://3.131.175.105/problem/0222">Sum of Digits</a>
+    > <a href = "http://3.131.175.105/problem/0219">Introduce Yourself</a><br>
+    > <a href="http://3.131.175.105/problem/0216">String Operations</a><br> 
+    > <a href="http://3.131.175.105/problem/0235">Make Abba</a><br>
+    > <a href="http://3.131.175.105/problem/0236">Making Tags</a><br>
+    > <a href = "http://3.131.175.105/problem/0246">Advanced Input</a><br>
+    > <a href="http://3.131.175.105/problem/0221">Area and Perimeter of a Rectangle</a><br>
+    > <a href="http://3.131.175.105/problem/0222">Sum of Digits</a><br>
 
 ### Week 2
 ---
