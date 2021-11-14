@@ -29,8 +29,7 @@
 ### Week 2
 ---
 * Lessons
-
-  * List & Tuple
+  * <a href="https://drive.google.com/file/d/1HTMmQZf3VCh3SnlnYirr2tnKIGu_Lmwr/view?usp=sharing">List & Tuple</a> 
     * Practice : <a href="http://3.131.175.105/problem/0240">Python Lists</a>
     * Practice : <a href="http://3.131.175.105/problem/0241">List Methods 1</a>
     * Practice : <a href="http://3.131.175.105/problem/0242">List Methods 2</a>
