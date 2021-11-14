@@ -51,6 +51,10 @@
   * <a href="http://3.131.175.105/problem/0252">String Bits</a>
   * <a href="http://3.131.175.105/problem/0253">Make Out Word</a>
   * <a href="http://3.131.175.105/problem/0254">First Half</a> 
+  * <a href="http://3.131.175.105/problem/0255">Combo String</a> 
+  * <a href="http://3.131.175.105/problem/0256">String Rotate</a> 
+  * <a href="http://3.131.175.105/problem/0257">First Last 6</a> 
+  * <a href="http://3.131.175.105/problem/0259">Max End</a>
   
 ### Week 3
 ---
@@ -68,6 +72,7 @@
     * <a href="http://3.131.175.105/problem/0233">Near Hundred</a>
     * <a href="http://3.131.175.105/problem/0233">Positive Negative</a>
     * <a href="http://3.131.175.105/problem/0248">Not String</a>
+    * <a href="http://3.131.175.105/problem/0260">Lone Sum</a>
     * <a href="http://3.131.175.105/problem/0002">타임 머신</a>
     * <a href="http://3.131.175.105/problem/0005">윷놀이</a>
 * Project(colab)
