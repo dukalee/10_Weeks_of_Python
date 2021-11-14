@@ -29,7 +29,7 @@
 ### Week 2
 ---
 * Lessons
-  * String
+  * <a href="https://drive.google.com/file/d/14uCjDjJrjr4QtNV8EKxuizv_7S7v9h9Y/view?usp=sharing">String</a>
     * Practice : <a href="http://3.131.175.105/problem/0237">String Methods 1</a>
     * Practice : <a href="http://3.131.175.105/problem/0238">String Methods 2</a> 
     * Practice : <a href="http://3.131.175.105/problem/0245">String Methods 3</a> 
