@@ -29,11 +29,7 @@
 ### Week 2
 ---
 * Lessons
-  * <a href="https://drive.google.com/file/d/14uCjDjJrjr4QtNV8EKxuizv_7S7v9h9Y/view?usp=sharing">String</a>
-    * Practice : <a href="http://3.131.175.105/problem/0237">String Methods 1</a>
-    * Practice : <a href="http://3.131.175.105/problem/0238">String Methods 2</a> 
-    * Practice : <a href="http://3.131.175.105/problem/0245">String Methods 3</a> 
-    * Practice : <a href="http://3.131.175.105/problem/0239">String Validation Methods</a>
+
   * List & Tuple
     * Practice : <a href="http://3.131.175.105/problem/0240">Python Lists</a>
     * Practice : <a href="http://3.131.175.105/problem/0241">List Methods 1</a>
@@ -41,6 +37,11 @@
     * Practice : <a href="http://3.131.175.105/problem/0243">Sequence Data</a>
     * Practice : <a href="http://3.131.175.105/problem/0244">Mutable and Immutable Data</a>  
     * Practice : <a href="http://3.131.175.105/problem/0281">Python Tuple</a>
+  * <a href="https://drive.google.com/file/d/14uCjDjJrjr4QtNV8EKxuizv_7S7v9h9Y/view?usp=sharing">String</a>
+    * Practice : <a href="http://3.131.175.105/problem/0237">String Methods 1</a>
+    * Practice : <a href="http://3.131.175.105/problem/0238">String Methods 2</a> 
+    * Practice : <a href="http://3.131.175.105/problem/0245">String Methods 3</a> 
+    * Practice : <a href="http://3.131.175.105/problem/0239">String Validation Methods</a>
   * Set
     * Practice : <a href="http://3.131.175.105/problem/0282">Python Set</a>
   * Dictionary
