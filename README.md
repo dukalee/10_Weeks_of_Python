@@ -9,7 +9,7 @@
       * Practce : <a href="http://3.131.175.105/problem/0284">Advanced print</a>
       * Practice : <a href = "http://3.131.175.105/problem/0214">Python Input</a>
       * Practice : <a href = "http://3.131.175.105/problem/0217">Type Casting</a>
-   * Print Formatting
+   * <a href="https://colab.research.google.com/drive/1jTQ-t9_NGX7WNN6toP-p6QYnaNk3E7xZ?usp=sharing">Print Formatting</a>
       * Practice : <a href="http://3.131.175.105/problem/0220">Print Formatting</a> 
    * <a href = "https://colab.research.google.com/drive/17xim7Q8CzN9ybLFZqg_wdBqnKfBfkRO4?usp=sharing">Errors (colab)</a>
    * <a href="https://colab.research.google.com/drive/1DOiyBG9Ouvg5SZuKxeiAWYa0OE4OkvrL?usp=sharing">Operators (colab)</a>
