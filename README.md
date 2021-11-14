@@ -12,26 +12,21 @@
    * Print Formatting
       * Practice : <a href="http://3.131.175.105/problem/0220">Print Formatting</a> 
    * <a href = "https://colab.research.google.com/drive/17xim7Q8CzN9ybLFZqg_wdBqnKfBfkRO4?usp=sharing">Errors (colab)</a>
+   * <a href="https://colab.research.google.com/drive/1DOiyBG9Ouvg5SZuKxeiAWYa0OE4OkvrL?usp=sharing">Operators (colab)</a>
+      * Practice : <a href="http://3.131.175.105/problem/0218">Arithmetic Operations</a>
+      * Practice : <a href="http://3.131.175.105/problem/0223">Comparison Operations</a>
+      * Practice : <a href="http://3.131.175.105/problem/0224">Logical Operations</a>
+      * Practice : <a href="http://3.131.175.105/problem/0261">Membership Operations</a>
 * Problems(OJ) : 
     * <a href = "http://3.131.175.105/problem/0219">Introduce Yourself</a>
     * <a href="http://3.131.175.105/problem/0216">String Operations</a> 
     * <a href="http://3.131.175.105/problem/0235">Make Abba</a>
     * <a href="http://3.131.175.105/problem/0236">Making Tags</a>
     * <a href = "http://3.131.175.105/problem/0246">Advanced Input</a>
-
-### Week 2
----
-* Lessons  
-  * <a href="https://colab.research.google.com/drive/1DOiyBG9Ouvg5SZuKxeiAWYa0OE4OkvrL?usp=sharing">Operators (colab)</a>
-    * Practice : <a href="http://3.131.175.105/problem/0218">Arithmetic Operations</a>
-    * Practice : <a href="http://3.131.175.105/problem/0223">Comparison Operations</a>
-    * Practice : <a href="http://3.131.175.105/problem/0224">Logical Operations</a>
-    * Practice : <a href="http://3.131.175.105/problem/0261">Membership Operations</a>
-* Problems(OJ)
     * <a href="http://3.131.175.105/problem/0221">Area and Perimeter of a Rectangle</a>
     * <a href="http://3.131.175.105/problem/0222">Sum of Digits</a>
 
-### Week 3
+### Week 2
 ---
 * Lessons
   * String
@@ -57,7 +52,7 @@
   * <a href="http://3.131.175.105/problem/0253">Make Out Word</a>
   * <a href="http://3.131.175.105/problem/0254">First Half</a> 
   
-### Week 4
+### Week 3
 ---
 * Conditionals
     * Practice(OJ) : <a href="http://3.131.175.105/problem/0225">Python if-else</a>  
@@ -78,7 +73,7 @@
 * Project(colab)
     * Rock, Paper, Scissors!
    
-### Week 5
+### Week 4
 ---
 * Loops
     * Practice(OJ) : <a href="http://3.131.175.105/problem/0262">Range Function</a> 
@@ -94,7 +89,7 @@
 * Project(colab)
     * Tic-tac-toe
 
-### Week 6
+### Week 5
 ---
 * Functions 1
 * Functions 2
@@ -104,32 +99,41 @@
    * Card Matching Game
    * Hangman
    * Poker Hand Identifier
-
-### Week 7
+  
+### Week 6 (5 Days of Testing)
+---
+* Test 1 : <a href="https://programmers.co.kr/learn/courses/33">COS Pro 2급 (민간자격증, YBM) 모의고사 </a>
+* Test 2 : <a href="https://programmers.co.kr/learn/courses/11133/">COS Pro 1급 (민간자격증, YBM) 모의고사 </a>
+* Test 3 : 
+* Test 4 : 
+* Test 5 : 
+ 
+### Week 6
 ---
 * Object-Oriented Programming 1
 * Object-Oriented Programming 2
 * Problems(colab)
 * Project(colab)
-   * 자판기
+   * Vending Machine
    * Pokemon
 
-### Week 8
+### Week 7
 ----
 * List Comprehension
 * Collections
 * itertools 
 * datetime
    
-### Week 9
+### Week 8
 --- 
+* BeautifulSoup
 * Pillow
    * Practice(colab) : Image
-* BeautifulSoup
 * Project(colab)
+   * Web Scraping
    * Steganography
    
-### Week 10
+### Week 9
 ---
 * GUI (tkiner) 1
    * Practice(colab) : Label
