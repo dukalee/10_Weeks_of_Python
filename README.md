@@ -3,8 +3,10 @@
 ### Week 1
 ---
 * Lessons
-   * Variables [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1X-_0wvD3Vf_COmSJVf8yTNUVolerUC-q?usp=sharing)
-   * <a href = "https://colab.research.google.com/drive/1a1rZB5tIMluQqgSrgOWFDETsv_a7kHTn?usp=sharing">Input and Output (colab)</a>
+   * Variables 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1X-_0wvD3Vf_COmSJVf8yTNUVolerUC-q?usp=sharing)
+   * Input and Output
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1a1rZB5tIMluQqgSrgOWFDETsv_a7kHTn?usp=sharing)
       > Practice : <a href = "http://3.131.175.105/problem/0213">"Hello, World!" With Python</a><br>
       > Practce : <a href="http://3.131.175.105/problem/0284">Advanced print</a><br>
       > Practice : <a href = "http://3.131.175.105/problem/0214">Python Input</a><br>
