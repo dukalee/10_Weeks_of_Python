@@ -71,16 +71,16 @@
     > Practice : <a href="http://3.131.175.105/problem/0226">Python elif</a> 
 * Exception Handling
 * Problems(OJ)
-    > <a href="http://3.131.175.105/problem/0227">Sleep in </a>
-    > <a href="http://3.131.175.105/problem/0228">Monkey Trouble</a> 
-    > <a href="http://3.131.175.105/problem/0229">Double Sum</a>
-    > <a href="http://3.131.175.105/problem/0230">Diff 21</a>
-    > <a href="http://3.131.175.105/problem/0231">Parrot Trouble</a>
-    > <a href="http://3.131.175.105/problem/0232">Makes 10</a>
-    > <a href="http://3.131.175.105/problem/0233">Near Hundred</a>
-    > <a href="http://3.131.175.105/problem/0233">Positive Negative</a>
-    > <a href="http://3.131.175.105/problem/0248">Not String</a>
-    > <a href="http://3.131.175.105/problem/0260">Lone Sum</a>
+    > <a href="http://3.131.175.105/problem/0227">Sleep in </a><br>
+    > <a href="http://3.131.175.105/problem/0228">Monkey Trouble</a> <br>
+    > <a href="http://3.131.175.105/problem/0229">Double Sum</a><br>
+    > <a href="http://3.131.175.105/problem/0230">Diff 21</a><br>
+    > <a href="http://3.131.175.105/problem/0231">Parrot Trouble</a><br>
+    > <a href="http://3.131.175.105/problem/0232">Makes 10</a><br>
+    > <a href="http://3.131.175.105/problem/0233">Near Hundred</a><br>
+    > <a href="http://3.131.175.105/problem/0233">Positive Negative</a><br>
+    > <a href="http://3.131.175.105/problem/0248">Not String</a><br>
+    > <a href="http://3.131.175.105/problem/0260">Lone Sum</a><br>
 * Project(colab)
     * Rock, Paper, Scissors!
    
