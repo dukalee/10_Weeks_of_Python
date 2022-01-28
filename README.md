@@ -105,7 +105,7 @@
     > Practice : <a href="http://3.131.175.105/problem/0283">Python Dictionary</a><br>
 * Problems(OJ)
   > <a href="http://3.131.175.105/problem/0280">Fizz Buzz</a><br>
-  > <a href="http://3.131.175.105/problem/0274">Has 22</a><br>  
+  > <a href="http://3.131.175.105/problem/0274">Has 22</a><br>
   > <a href="http://3.131.175.105/problem/0003">자연수 분리하여 입력 받기</a><br>
   > <a href="http://3.131.175.105/problem/0006">검증수</a><br>
   > <a href="http://3.131.175.105/problem/0252">Stirng Bits</a><br>
