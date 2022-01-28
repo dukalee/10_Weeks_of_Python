@@ -67,10 +67,12 @@
   
 ### Week 3
 ---
-* Conditionals
-    > Practice : <a href="http://3.131.175.105/problem/0225">Python if-else</a>  
-    > Practice : <a href="http://3.131.175.105/problem/0226">Python elif</a> 
-* Exception Handling
+* Lessons 
+  * Conditionals
+      > Practice : <a href="http://3.131.175.105/problem/0225">Python if-else</a>  
+      > Practice : <a href="http://3.131.175.105/problem/0226">Python elif</a> 
+  * Exception Handling
+      > Practice : <a href="http://3.131.175.105/problem/0225">Python if-else</a>  
 * Problems(OJ)
     > <a href="http://3.131.175.105/problem/0227">Sleep in </a><br>
     > <a href="http://3.131.175.105/problem/0228">Monkey Trouble</a> <br>
@@ -87,14 +89,15 @@
    
 ### Week 4
 ---
-* Loops
-    > Practice : <a href="http://3.131.175.105/problem/0262">Range Function</a> <br>
-    > Practice : <a href="http://3.131.175.105/problem/0263">For Loop</a><br>
-    > Practice : <a href="http://3.131.175.105/problem/0264">While Loop</a><br>
-    > Practice : <a href="http://3.131.175.105/problem/0265">Break, Continue</a><br>
-* Nested Loops
-    > Practice(OJ) : <a href="http://3.131.175.105/problem/0285">Nested Loops</a> <br>
-    > Practice(OJ) : <a href="http://3.131.175.105/problem/0286">Nested Lists<br>
+* Lessons
+  * Loops
+      > Practice : <a href="http://3.131.175.105/problem/0262">Range Function</a> <br>
+      > Practice : <a href="http://3.131.175.105/problem/0263">For Loop</a><br>
+      > Practice : <a href="http://3.131.175.105/problem/0264">While Loop</a><br>
+      > Practice : <a href="http://3.131.175.105/problem/0265">Break, Continue</a><br>
+  * Nested Loops
+      > Practice : <a href="http://3.131.175.105/problem/0285">Nested Loops</a> <br>
+      > Practice : <a href="http://3.131.175.105/problem/0286">Nested Lists<br>
   * Dictionary
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1TcL9ir39cqj_do9M69q8IjnBBfOH1zQh/view?usp=sharing)
     > Practice : <a href="http://3.131.175.105/problem/0283">Python Dictionary</a><br>
