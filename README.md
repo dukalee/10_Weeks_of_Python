@@ -48,6 +48,9 @@
     > Practice : <a href="http://3.131.175.105/problem/0238">String Methods 2</a><br>
     > Practice : <a href="http://3.131.175.105/problem/0245">String Methods 3</a><br>
     > Practice : <a href="http://3.131.175.105/problem/0239">String Validation Methods</a><br>
+  * map (Advaned Input)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
+    > Practice : <a href="http://3.131.175.105/problem/0246">Advnced Input</a><br>
   * Set
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1__5lfGYx6DvpC-lm4w0ezJHciqt1ysCK/view?usp=sharing)
     > Practice : <a href="http://3.131.175.105/problem/0282">Python Set</a><br>
