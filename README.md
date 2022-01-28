@@ -90,8 +90,9 @@
 ### Week 4
 ---
 * Lessons
-  * Loops
+  * range()
       > Practice : <a href="http://3.131.175.105/problem/0262">Range Function</a> <br>
+  * Loops
       > Practice : <a href="http://3.131.175.105/problem/0263">For Loop</a><br>
       > Practice : <a href="http://3.131.175.105/problem/0264">While Loop</a><br>
       > Practice : <a href="http://3.131.175.105/problem/0265">Break, Continue</a><br>
