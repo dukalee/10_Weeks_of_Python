@@ -52,6 +52,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1__5lfGYx6DvpC-lm4w0ezJHciqt1ysCK/view?usp=sharing)
     > Practice : <a href="http://3.131.175.105/problem/0282">Python Set</a><br>
   * Dictionary
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1TcL9ir39cqj_do9M69q8IjnBBfOH1zQh/view?usp=sharing)
     > Practice : <a href="http://3.131.175.105/problem/0283">Python Dictionary</a><br>
 * Problems(OJ):
   > <a href="http://3.131.175.105/problem/0249">Missing Character</a><br>
