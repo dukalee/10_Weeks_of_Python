@@ -48,8 +48,8 @@
     > Practice : <a href="http://3.131.175.105/problem/0238">String Methods 2</a><br>
     > Practice : <a href="http://3.131.175.105/problem/0245">String Methods 3</a><br>
     > Practice : <a href="http://3.131.175.105/problem/0239">String Validation Methods</a><br>
-  * map (Advaned Input)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
+  * map()
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1cojXc91kVbyMjm3L4-Tc5nRUa0y-GRvT?usp=sharing)
     > Practice : <a href="http://3.131.175.105/problem/0246">Advnced Input</a><br>
   * Set
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1__5lfGYx6DvpC-lm4w0ezJHciqt1ysCK/view?usp=sharing)
@@ -88,19 +88,19 @@
 ### Week 4
 ---
 * Loops
-    * Practice(OJ) : <a href="http://3.131.175.105/problem/0262">Range Function</a> 
-    * Practice(OJ) : <a href="http://3.131.175.105/problem/0263">For Loop</a>
-    * Practice(OJ) : <a href="http://3.131.175.105/problem/0264">While Loop</a>
-    * Practice(OJ) : <a href="http://3.131.175.105/problem/0265">Break, Continue</a>
+    > Practice : <a href="http://3.131.175.105/problem/0262">Range Function</a> <br>
+    > Practice : <a href="http://3.131.175.105/problem/0263">For Loop</a><br>
+    > Practice : <a href="http://3.131.175.105/problem/0264">While Loop</a><br>
+    > Practice : <a href="http://3.131.175.105/problem/0265">Break, Continue</a><br>
 * Nested Loops
-    * Practice(OJ) : <a href="http://3.131.175.105/problem/0285">Nested Loops</a> 
-    * Practice(OJ) : <a href="http://3.131.175.105/problem/0286">Nested Lists
+    > Practice(OJ) : <a href="http://3.131.175.105/problem/0285">Nested Loops</a> <br>
+    > Practice(OJ) : <a href="http://3.131.175.105/problem/0286">Nested Lists<br>
   * Dictionary
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1TcL9ir39cqj_do9M69q8IjnBBfOH1zQh/view?usp=sharing)
     > Practice : <a href="http://3.131.175.105/problem/0283">Python Dictionary</a><br>
 * Problems(OJ)
-    * <a href="http://3.131.175.105/problem/0003">자연수 분리하여 입력 받기</a>
-    * <a href="http://3.131.175.105/problem/0006">검증수</a>
+    > <a href="http://3.131.175.105/problem/0003">자연수 분리하여 입력 받기</a><br>
+    > <a href="http://3.131.175.105/problem/0006">검증수</a><br>
 * Project(colab)
     * Tic-tac-toe
 
