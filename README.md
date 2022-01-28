@@ -92,6 +92,7 @@
 ---
 * Lessons
   * range()
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1gycuRA2l2gDUopAyReWHvKa2_MTkN-f8/view?usp=sharing)
       > Practice : <a href="http://3.131.175.105/problem/0262">Range Function</a> <br>
   * Loops
       > Practice : <a href="http://3.131.175.105/problem/0263">For Loop</a><br>
