@@ -94,6 +94,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1gycuRA2l2gDUopAyReWHvKa2_MTkN-f8/view?usp=sharing)
       > Practice : <a href="http://3.131.175.105/problem/0262">Range Function</a> <br>
   * Loops
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1ghULi5SiYForPubxssVkelzy8DG4lVxu/view?usp=sharing)
       > Practice : <a href="http://3.131.175.105/problem/0263">For Loop</a><br>
       > Practice : <a href="http://3.131.175.105/problem/0264">While Loop</a><br>
       > Practice : <a href="http://3.131.175.105/problem/0265">Break, Continue</a><br>
