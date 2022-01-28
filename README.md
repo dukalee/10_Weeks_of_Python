@@ -83,6 +83,7 @@
     > <a href="http://3.131.175.105/problem/0233">Positive Negative</a><br>
     > <a href="http://3.131.175.105/problem/0248">Not String</a><br>
     > <a href="http://3.131.175.105/problem/0260">Lone Sum</a><br>
+    > <a href="http://3.131.175.105/problem/0275">Leap Year</a><br>
 * Project(colab)
     * Rock, Paper, Scissors!
    
@@ -103,8 +104,13 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1TcL9ir39cqj_do9M69q8IjnBBfOH1zQh/view?usp=sharing)
     > Practice : <a href="http://3.131.175.105/problem/0283">Python Dictionary</a><br>
 * Problems(OJ)
-    > <a href="http://3.131.175.105/problem/0003">자연수 분리하여 입력 받기</a><br>
-    > <a href="http://3.131.175.105/problem/0006">검증수</a><br>
+  > <a href="http://3.131.175.105/problem/0280">Fizz Buzz</a><br>
+  > <a href="http://3.131.175.105/problem/0274">Has 22</a><br>  
+  > <a href="http://3.131.175.105/problem/0003">자연수 분리하여 입력 받기</a><br>
+  > <a href="http://3.131.175.105/problem/0006">검증수</a><br>
+  > <a href="http://3.131.175.105/problem/0252">Stirng Bits</a><br>
+  > <a href="http://3.131.175.105/problem/0277">Weird Case</a><br>
+    
 * Project(colab)
     * Tic-tac-toe
 
