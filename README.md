@@ -69,6 +69,7 @@
 ---
 * Lessons 
   * Conditionals
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1jxKxARn1fLi3WgHNfu8J1UeZi5DcwukT/view?usp=sharing)
       > Practice : <a href="http://3.131.175.105/problem/0225">Python if-else</a>  
       > Practice : <a href="http://3.131.175.105/problem/0226">Python elif</a> 
   * Exception Handling
